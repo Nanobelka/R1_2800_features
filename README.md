@@ -1,4 +1,4 @@
-# [Вероятность покупки клиентом оборудования в компании R1](https://nbviewer.jupyter.org/github/Nanobelka/R1_2800_features/blob/main/R1_2800_features.ipynb)
+# [Вероятность покупки клиентом оборудования в компании R1 Telecom](https://nbviewer.jupyter.org/github/Nanobelka/R1_2800_features/blob/main/R1_2800_features.ipynb)
 
 Решение для хакатона  
 Заказчик: **R1 Telecom**
